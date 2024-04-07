@@ -1,0 +1,1 @@
+Java Swing is a popular Java library for creating graphical user interfaces (GUIs) in desktop applications. Swing provides a rich set of components for building interactive and visually appealing applications. 
